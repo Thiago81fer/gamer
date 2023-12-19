@@ -1,0 +1,35 @@
+#servicos{
+
+ background-color: aquamarine;
+}
+h1 {
+    color:#36AEDC;
+    font-size: 30px;
+    }
+
+p{
+    font-family:"arial";
+    }
+    
+    #principal {
+    color:#DB8D37;
+    font-size:20px;
+    }
+    .Secundarios {
+    color:#3779db;
+    font-size:15px;
+    display: inline-block;
+    margin-right: 10px; /* Espaçamento opcional entre os elementos */
+
+    }
+    img{ 
+    justify-content: center;
+    height:auto;
+    width:auto;
+    min-height:50px;
+    min-width:50px;
+    max-height: 100px ;
+    max-width: 100px ;
+
+    }
+    
